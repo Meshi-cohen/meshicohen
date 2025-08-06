@@ -18,7 +18,7 @@
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <!-- FPGA / Hardware -->
- <img src="https://raw.githubusercontent.com/Meshi-cohen/meshi-cohen/main/vhdl.png" alt="VHDL" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/[Meshi-cohen/meshi-cohen/main/vhdl.png](https://fpgainsights.com/wp-content/uploads/2024/01/Thumbnail-3.png.webp)" alt="VHDL" width="60" height="60"/>
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
 </p>
