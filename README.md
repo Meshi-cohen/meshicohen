@@ -17,8 +17,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <!-- VHDL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/VHDL_logo.svg" alt="VHDL" width="50" height="50"/>
+  <!-- FPGA / Hardware -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Integrated_Circuit.svg" alt="FPGA / Hardware" width="50" height="50"/>
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
 </p>
